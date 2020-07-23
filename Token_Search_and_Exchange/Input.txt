@@ -1,0 +1,5 @@
+LogManager::logFormat(kLogIdTrace, (wchar_t*)(L"\x2CA1\x1sadf59C" L"c.h" L"\x0" L"\x198A"), (wchar_t*)(L"\x2CA1\x159C" __LPREFIX( __FUNCTION__) L"\x0" L"\x19sadfA"), 118, (wchar_t*)(L"\x2sadfCA1\x159C" L"[c.h] operator new[] size[%d] GetLastError[%d]" L"\x0" L"\x1938A"), size, GetLastError());
+LogManager::logFormat(kLogIdTrace, (wchar_t*)(L"\x2C\asdfx159C" L"a.h" L"\x0" L"\x198A"), (wchar_t*)(L"\x2CA1\x159C" __LPREFIX( __FUNCTION__) L"\x0" L"\x13458A"), 92, (wchar_t*)(L"\x2C\x159C" L"i : %d, p : %s\n" L"\x0" L"\x198A"), (int)byObjIdx, szPath);
+LogManager::logFormat(kLogIdTrace, (wchar_t*)(L"\x2C\x1sdf59C" L"a.cpp" L"\x0" L"\x198A"), (wchar_t*)(L"\x2CA1\x159C" __LPREFIX( __FUNCTION__) L"\x0" L"\x19348A"), 714, buffer.c_str());
+
+LogManager::logFormat(kLogIdTrace, (wchar_t*)(L"\x2CsdfA159C" L"a.cpp" L"\x0" L"\x198A"), (wchar_t*)(L"\x2CA1\x159C" __LPREFIX( __FUNCTION__) L"\x0" L"\x19a8A"), 1289, (wchar_t*)(L"\x2CA1\x159C" L"\text(%d) : %d %d %d %d %d" L"\x0" L"\x198A"), ei, ei1, ei2, ei3, ei4, ei5);
